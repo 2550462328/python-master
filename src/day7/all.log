@@ -1,0 +1,5 @@
+2022-02-09 17:25:40,731 - D:\develop\workspace\workspace-python\helloworld\src\day7\logutils.py[line:29] - DEBUG: debug
+2022-02-09 17:25:40,732 - D:\develop\workspace\workspace-python\helloworld\src\day7\logutils.py[line:30] - INFO: info
+2022-02-09 17:25:40,732 - D:\develop\workspace\workspace-python\helloworld\src\day7\logutils.py[line:31] - WARNING: warning
+2022-02-09 17:25:40,732 - D:\develop\workspace\workspace-python\helloworld\src\day7\logutils.py[line:32] - ERROR: error
+2022-02-09 17:25:40,732 - D:\develop\workspace\workspace-python\helloworld\src\day7\logutils.py[line:33] - CRITICAL: critical

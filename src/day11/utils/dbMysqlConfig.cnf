@@ -1,0 +1,6 @@
+[dbMysql]
+host = 121.5.54.219
+port = 3306
+user = root
+password = yqqlmGSYCL222
+db_name = seata_test
